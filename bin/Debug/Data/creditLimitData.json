@@ -1,0 +1,14 @@
+[
+  {
+	"customerid": 1,
+    "customerName": "sunil",
+    "totalCreditLimit": 10000,
+    "usedCreditLimit": 0
+  },
+  {
+    "customerid": 1,
+    "customerName": "sahil",
+    "totalCreditLimit": 10000,
+    "usedCreditLimit": 0
+  }
+]

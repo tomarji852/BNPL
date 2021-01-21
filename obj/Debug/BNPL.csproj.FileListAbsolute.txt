@@ -1,0 +1,10 @@
+D:\Test project\supr\BNPL\bin\Debug\BNPL.exe.config
+D:\Test project\supr\BNPL\bin\Debug\BNPL.exe
+D:\Test project\supr\BNPL\bin\Debug\BNPL.pdb
+D:\Test project\supr\BNPL\bin\Debug\Newtonsoft.Json.dll
+D:\Test project\supr\BNPL\bin\Debug\Newtonsoft.Json.xml
+D:\Test project\supr\BNPL\obj\Debug\BNPL.csprojAssemblyReference.cache
+D:\Test project\supr\BNPL\obj\Debug\BNPL.csproj.CoreCompileInputs.cache
+D:\Test project\supr\BNPL\obj\Debug\BNPL.csproj.CopyComplete
+D:\Test project\supr\BNPL\obj\Debug\BNPL.exe
+D:\Test project\supr\BNPL\obj\Debug\BNPL.pdb

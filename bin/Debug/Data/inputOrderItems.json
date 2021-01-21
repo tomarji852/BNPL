@@ -1,0 +1,16 @@
+[
+	{
+	"id": 1,
+    "name": "itemA",
+    "price": 1000,
+    "Descrition": "nice product",
+    "Category": "Toy"
+  },
+  {
+    "id": 2,
+    "name": "itemB",
+    "price": 100,
+    "Descrition": "lasdfl",
+    "Category": "HouseHold"
+  }
+]

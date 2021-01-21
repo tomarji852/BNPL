@@ -1,0 +1,30 @@
+[
+  {
+	"id": 1,
+    "name": "itemA",
+    "price": 1000,
+    "Descrition": "nice product",
+    "Category": "Toy"
+  },
+  {
+    "id": 2,
+    "name": "itemB",
+    "price": 100,
+    "Descrition": "lasdfl",
+    "Category": "HouseHold"
+  },
+  {
+    "id": 3,
+    "name": "itemC",
+    "price": 4000,
+    "Descrition": "made in india",
+    "Category": "Eloectronics"
+  },
+  {
+    "id": 4,
+    "name": "itemC",
+    "price": 30000,
+    "descrition": "made of xyz wood",
+    "category": "Furniture"
+  }
+]
